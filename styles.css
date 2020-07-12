@@ -1,0 +1,170 @@
+body{
+    font-family: Verdana, sans-serif;
+    padding: 0 2px;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3em;
+  line-height: 1.5;
+  color: white;
+}
+
+h2{
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+p{
+  color: #8f8f8f;
+}
+
+/* Navigation Bar */
+.navbar{
+  padding:0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-size: 2.5rem;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Montserrat-Light', sans-serif;
+}
+
+/* Title section */
+#title{
+  background-color: #4d4c7d;
+
+}
+
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+
+.download-btn{
+  margin: 6% 3% 1% 0;
+}
+
+.phone{
+  width: 99%;
+  margin-top: 10px;
+  border-radius: 10%;
+}
+
+/* Features Section */
+#features{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #fff;
+}
+
+.features{
+  padding: 5%;
+  margin-bottom: 1px;
+}
+
+.fa-4x{
+  color: #d8b9c3;
+  margin: 1rem;;
+}
+
+.fa-4x:hover{
+  color: #827397;
+}
+
+/* Testimonials section */
+#testimonials{
+  text-align: center;
+  background-color: #827397;
+  color: #fff;
+}
+
+.testimonial-image{
+    width: 15%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+/* Media section */
+#media{
+  background-color: #827397;
+  padding-bottom: 3%;
+  text-align: center;
+}
+
+.media-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* Cards section */
+#cards{
+  padding: 100px;
+  text-align: center;
+}
+
+.cards-column{
+  padding: 3% 2%;
+
+}
+/* CTA section */
+#cta{
+  background-color: #4d4c7d;
+  padding: 7% 25%;
+  text-align: center;
+  color: white;
+}
+
+.cta-text{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: 900;
+}
+/* Footer */
+#footer{
+  text-align: center;
+  padding: 7% 0 2%;
+  background-color: #fff;
+}
+
+.footer-icon{
+  margin: 0 1% 2% 1%;
+}
+
+.copyright{
+  font-size: 15px;
+}
+
+.tweet:hover{
+  color: #2bb2bb ;
+}
+
+.fb:hover{
+  color: #436f8a;
+}
+
+.insta:hover{
+  color: #e7305b;
+}
+
+.mail:hover{
+  color: #ea907a;
+}
